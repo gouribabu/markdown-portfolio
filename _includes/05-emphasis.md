@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_**Google** was founded in September 1998 by **Larry Page** and **Sergey Brin**_
